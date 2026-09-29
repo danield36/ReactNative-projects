@@ -1,19 +1,19 @@
-![React-native-projects](https://socialify.git.ci/walidbosso/React-native-projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![ReactNative-projects](https://socialify.git.ci/danield36/ReactNative-projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 <p align="center">
-<a href="https://github.com/walidbosso/React-native-projects">
+<a href="https://github.com/danield36/ReactNative-projects">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/React-native-projects)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/ReactNative-projects)
 
   <p align="center">
-<a href="https://github.com/walidbosso/React-native-projects">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FReact-native-projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/ReactNative-projects">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2FReactNative-projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/React-native-projects">
+<a href="https://github.com/danield36/ReactNative-projects">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -43,15 +43,11 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/React-native-projects/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/danield36/ReactNative-projects/issues) page.
 
 Thank you for exploring! 🚀
 
 <div align="center">
-  
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
 
 <details>
 
@@ -62,7 +58,7 @@ Thank you for exploring! 🚀
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/React-native-projects](http://reporoster.com/stars/dark/walidbosso/React-native-projects)](https://github.com/walidbosso/React-native-projects/stargazers)
+[![Stargazers repo roster for @danield36/ReactNative-projects](http://reporoster.com/stars/dark/danield36/ReactNative-projects)](https://github.com/danield36/ReactNative-projects/stargazers)
 
 
 
@@ -72,14 +68,14 @@ Thank you for exploring! 🚀
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/React-native-projects](http://reporoster.com/forks/dark/walidbosso/React-native-projects)](https://github.com/walidbosso/React-native-projects/network/members)
+[![Forkers repo roster for @danield36/ReactNative-projects](http://reporoster.com/forks/dark/danield36/ReactNative-projects)](https://github.com/danield36/ReactNative-projects/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/React-native-projects"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/ReactNative-projects"/>
 </a>
 
 
@@ -88,30 +84,30 @@ Thank you for exploring! 🚀
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/React-native-projects?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/ReactNative-projects?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/React-native-projects?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/ReactNative-projects?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
